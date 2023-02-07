@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ![shwbliss's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwbliss&theme=transparent&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwbliss&layout=compact)](https://github.com/shwbliss/github-readme-stats)
 
 
+![shwbliss's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwbliss&theme=transparent&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/shwbliss/github-readme-stats)
