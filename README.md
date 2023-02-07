@@ -1,4 +1,4 @@
-### Hi there My name is Seo Hyun Woo 👋👋👋
+
 
 <!--
 **shwbliss/shwbliss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![shwbliss's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwbliss&theme=transparent&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shwbliss&layout=compact)](https://github.com/shwbliss/github-readme-stats)
-
-
-![shwbliss's GitHub stats](https://github-readme-stats.vercel.app/api?username=shwbliss&theme=transparent&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/shwbliss/github-readme-stats)
-
-
-Hello, I'm HyunWoo. 👋🏻👋🏻
+### Hi there My name is Seo Hyun Woo 👋🏻👋🏻
 
 <br />
 
