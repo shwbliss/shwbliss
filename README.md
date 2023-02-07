@@ -41,7 +41,7 @@ I'm a FrontEnd developer from Korea 🇰🇷
 
 
 <a href="https://github.com/shwbliss/subwayProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shwbliss&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shwbliss&repo=subwayProject&theme=buefy" />
 </a>
 <a href="https://github.com/shwbliss/shwbliss.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shwbliss&repo=shwbliss.github.io&theme=buefy" />
