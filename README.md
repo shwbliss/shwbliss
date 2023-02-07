@@ -40,7 +40,7 @@ I'm a FrontEnd developer from Korea 🇰🇷
 #### Top Repositories
 
 
-<a href="https://github.com/shwbliss/subwayProject.git">
+<a href="https://github.com/shwbliss/subwayProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shwbliss&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
